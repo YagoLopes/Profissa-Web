@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profissa Web", "Assembly-CSharp-firstpass.csproj", "{0035E479-2A4E-AC20-3E65-EBE0A23AC3A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profissa Web", "Assembly-CSharp.csproj", "{344B9E3A-AA1B-BEBE-5C3E-CA5EB976294A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Profissa Web", "Assembly-CSharp-Editor-firstpass.csproj", "{1D94268E-06C6-DA17-32EB-CD0EB7B2A058}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0035E479-2A4E-AC20-3E65-EBE0A23AC3A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0035E479-2A4E-AC20-3E65-EBE0A23AC3A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0035E479-2A4E-AC20-3E65-EBE0A23AC3A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0035E479-2A4E-AC20-3E65-EBE0A23AC3A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{344B9E3A-AA1B-BEBE-5C3E-CA5EB976294A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{344B9E3A-AA1B-BEBE-5C3E-CA5EB976294A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{344B9E3A-AA1B-BEBE-5C3E-CA5EB976294A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{344B9E3A-AA1B-BEBE-5C3E-CA5EB976294A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1D94268E-06C6-DA17-32EB-CD0EB7B2A058}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1D94268E-06C6-DA17-32EB-CD0EB7B2A058}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1D94268E-06C6-DA17-32EB-CD0EB7B2A058}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1D94268E-06C6-DA17-32EB-CD0EB7B2A058}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
